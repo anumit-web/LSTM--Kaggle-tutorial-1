@@ -7,4 +7,7 @@ Generating WordClouds in Python Tutorial
 
 https://www.datacamp.com/tutorial/wordcloud-python/
 
+Generating Emojis in Python
+
+https://discovery.cs.illinois.edu/guides/Other-Forms-Of-Visualizations/using-emojis-in-python/
 
